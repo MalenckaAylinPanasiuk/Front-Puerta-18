@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    text-align: 0;
+    padding: 0;
+}
+
+h1{font-size: 3em; padding: 2em;}
+h2{font-size: 2em;}
+h3{font-size: 1.8em;}
+h4{ font-size: 1.5em;}
+h6{font-size: 1em;}
+
+body{
+    background-color: rgb(69, 2, 75);
+}
+.contenedor{
+    text-align: center;
+    color: aliceblue;
+    padding: 2em;
+}
+
+.contenedor-form .caja h5{
+    background-color: rgba(0, 0, 0, 0.308);
+    color: rgb(163, 163, 230);
+    width: 100% em;
+    margin: 1em;
+    padding: 1em;
+    border-radius: 2em;
+}
+
+.contenedor h5{
+    text-align: ;
+}
+
+
+
